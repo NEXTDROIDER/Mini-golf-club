@@ -10,4 +10,5 @@ App Key:		*******************
 App Name:		mini golf club
 App Version:	1.0
 Package:		github.nextdroider.minigolfclub
+Download: https://github.com/NEXTDROIDER/Mini-golf-club/releases
 -------------------------------------
