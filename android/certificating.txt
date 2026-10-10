@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the mini golf club 1.0
+---------------------------------------------------
+
+app_name - 						mini golf club
+app_alias - 					minigolfclub
+app_author_name - 				Mykhailo
+app_author_organizational - 	Nextdroider
+app_author_organization - 		Nextdroider
+app_author_locality - 			Nextdroider
+app_author_state - 				Kyiv Oblast
+app_author_country - 			Ukraine
+app_password - 					************
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created at
+the Saturday 10th of October 2026 09:50:52 AM
+
+https://cocostore.wisp.uno
+---------------------------------------------------
+
